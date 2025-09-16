@@ -119,14 +119,14 @@ repositories:
     url: https://github.com/autowarefoundation/ros2_socketcan
     version: e39a814180b03f00a5692b6951a5d4e9f0463486
    # sensor_kit
-  sensor_kit/YOUR_SENSOR_KIT_launch:
+  sensor_kit/sensor_kit_pacifica_launch:
     type: git
-    url: https://github.com/YOUR_NAME/YOUR_SENSOR_KIT_launch.git
+    url: https://github.com/CUIP-AV/sensor_kit_pacifica_launch.git
     version: main
   # vehicle
-    vehicle/YOUR_VEHICLE_launch:
+    vehicle/vehicle_pasifica_launch:
     type: git
-    url: https://github.com/YOUR_NAME/YOUR_VEHICLE_launch.git
+    url: https://github.com/CUIP-AV/vehicle_pasifica_launch.git
     version: main
 
   # middleware
